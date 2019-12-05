@@ -3,7 +3,7 @@ The main goal is deploying a node capable to measure variables such as: Temperat
 
 Sensors:
 
-Temperature : Thermistor
-Humidity:     HIH8120
-Luminiscense: BH1750FVI
-ADC 16 bits:  ADS1115
+Temperature : Thermistor;
+Humidity:     HIH8120;
+Luminiscense: BH1750FVI;
+ADC 16 bits:  ADS1115;
